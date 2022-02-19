@@ -10,6 +10,7 @@ DriversEd Tools allows you to progress quickly through the modules without being
 
 - Auto Lesson: Automatically advances the slide as soon as the next button is enabled
 - Skip Slides: Disables the minimum view timer and enables the next button
+  - Note: Auto Lesson must be enabled for skip slides to work.
 - Skip Videos: Automatically skips the video on any video module
 
 ## How to install
