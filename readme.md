@@ -19,3 +19,7 @@ DriversEd Tools allows you to progress quickly through the modules without being
 3. Select `Load unpacked extension`
 4. Select the `DriversEd-Tools` folder
 5. Configure the options by clicking the extension icon while on [DriversEd.com](https://driversed.com).
+
+## Disclaimer
+
+This project is for educational purposes only.
