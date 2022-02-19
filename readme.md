@@ -23,3 +23,7 @@ DriversEd Tools allows you to progress quickly through the modules without being
 ## Disclaimer
 
 This project is for educational purposes only.
+
+## See Also
+
+[MSF Skipper](https://gist.github.com/ethankrein/a6dde0cb5c881c84eec7d568f673d077), a short script that automates the [Motorcycle Safety Foundation eCourse](https://elearning.msf-usa.org/).
