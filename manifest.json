@@ -1,0 +1,37 @@
+{
+  "name": "DriversEd Tools",
+  "version": "1.0",
+  "description": "Makes DriversEd.com a little easier.",
+  "permissions": [
+    "tabs",
+    "storage",
+    "declarativeContent",
+    "*://*.driversed.com/*"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/DETools16.png",
+      "32": "images/DETools32.png",
+      "48": "images/DETools48.png",
+      "128": "images/DETools128.png"
+    }
+  },
+  "icons": {
+    "16": "images/DETools16.png",
+    "32": "images/DETools32.png",
+    "48": "images/DETools48.png",
+    "128": "images/DETools128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.driversed.com/*"],
+      "js": ["./js/cheese/clicker.js", "./js/cheese/video.js"]
+    }
+  ],
+  "manifest_version": 2
+}
