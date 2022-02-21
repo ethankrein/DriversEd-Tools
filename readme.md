@@ -1,4 +1,4 @@
-## DriversEd Tools
+# DriversEd Tools
 
 DriversEd Tools is a browser extension that automates the Drivers Ed process on [DriversEd.com](https://driversed.com).
 
