@@ -23,7 +23,7 @@ DriversEd Tools allows you to progress quickly through the modules without being
 
 ## Disclaimer
 
-This project is for educational purposes only.
+This project was originally created in 2019 for educational purposes only.
 
 ## See Also
 
